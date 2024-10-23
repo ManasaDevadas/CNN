@@ -12,7 +12,7 @@ Multiclass classification model using a custom convolutional neural network in T
 
 ## General Information
 - Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early
--Dataset used  - https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view?usp=sharing
+- Dataset used  - https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view?usp=sharing
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
 
 
@@ -22,21 +22,17 @@ All conclusions written in Notebook itself
 
 
 ## Technologies Used
-- Tensorflow - version 1.0
-- Pandas - version 2.0
-- Numpy - version 3.0
+- Python - 3.11
+- Tensorflow - version 2.17.0
+- Pandas - version 2.2.3
+- Numpy - version 1.26.4
+- Matplotlib - version 3.9.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ManasaDevadas] - feel free to contact me!
 
 
 <!-- Optional -->
